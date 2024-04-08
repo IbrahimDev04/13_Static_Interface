@@ -1,0 +1,14 @@
+C:\Users\ibrah\OneDrive\Masaüstü\CodeAcademy\13_Static_Interface\13_Static_Interface\bin\Debug\net6.0\13_Static_Interface.exe
+C:\Users\ibrah\OneDrive\Masaüstü\CodeAcademy\13_Static_Interface\13_Static_Interface\bin\Debug\net6.0\13_Static_Interface.deps.json
+C:\Users\ibrah\OneDrive\Masaüstü\CodeAcademy\13_Static_Interface\13_Static_Interface\bin\Debug\net6.0\13_Static_Interface.runtimeconfig.json
+C:\Users\ibrah\OneDrive\Masaüstü\CodeAcademy\13_Static_Interface\13_Static_Interface\bin\Debug\net6.0\13_Static_Interface.dll
+C:\Users\ibrah\OneDrive\Masaüstü\CodeAcademy\13_Static_Interface\13_Static_Interface\bin\Debug\net6.0\13_Static_Interface.pdb
+C:\Users\ibrah\OneDrive\Masaüstü\CodeAcademy\13_Static_Interface\13_Static_Interface\obj\Debug\net6.0\13_Static_Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ibrah\OneDrive\Masaüstü\CodeAcademy\13_Static_Interface\13_Static_Interface\obj\Debug\net6.0\13_Static_Interface.AssemblyInfoInputs.cache
+C:\Users\ibrah\OneDrive\Masaüstü\CodeAcademy\13_Static_Interface\13_Static_Interface\obj\Debug\net6.0\13_Static_Interface.AssemblyInfo.cs
+C:\Users\ibrah\OneDrive\Masaüstü\CodeAcademy\13_Static_Interface\13_Static_Interface\obj\Debug\net6.0\13_Static_Interface.csproj.CoreCompileInputs.cache
+C:\Users\ibrah\OneDrive\Masaüstü\CodeAcademy\13_Static_Interface\13_Static_Interface\obj\Debug\net6.0\13_Static_Interface.dll
+C:\Users\ibrah\OneDrive\Masaüstü\CodeAcademy\13_Static_Interface\13_Static_Interface\obj\Debug\net6.0\refint\13_Static_Interface.dll
+C:\Users\ibrah\OneDrive\Masaüstü\CodeAcademy\13_Static_Interface\13_Static_Interface\obj\Debug\net6.0\13_Static_Interface.pdb
+C:\Users\ibrah\OneDrive\Masaüstü\CodeAcademy\13_Static_Interface\13_Static_Interface\obj\Debug\net6.0\13_Static_Interface.genruntimeconfig.cache
+C:\Users\ibrah\OneDrive\Masaüstü\CodeAcademy\13_Static_Interface\13_Static_Interface\obj\Debug\net6.0\ref\13_Static_Interface.dll
